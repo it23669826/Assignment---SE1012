@@ -1,0 +1,45 @@
+Move 1: Human (X) -> (2,2)
+. . .
+. X .
+. . .
+-----
+Move 2: Computer (O) -> (1,3)
+. . O
+. X .
+. . .
+-----
+Move 3: Human (X) -> (3,3)
+. . O
+. X .
+. . X
+-----
+Move 4: Computer (O) -> (2,3)
+. . O
+. X O
+. . X
+-----
+Move 5: Human (X) -> (1,2)
+. X O
+. X O
+. . X
+-----
+Move 6: Computer (O) -> (3,1)
+. X O
+. X O
+O . X
+-----
+Move 7: Human (X) -> (2,1)
+. X O
+X X O
+O . X
+-----
+Move 8: Computer (O) -> (3,2)
+. X O
+X X O
+O O X
+-----
+Move 9: Human (X) -> (1,1)
+X X O
+X X O
+O O X
+-----

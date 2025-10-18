@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1760809267 source:d:\pm pro\assignment - se1012\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdbool.h>
+	<time.h>
+	<ctype.h>
+
